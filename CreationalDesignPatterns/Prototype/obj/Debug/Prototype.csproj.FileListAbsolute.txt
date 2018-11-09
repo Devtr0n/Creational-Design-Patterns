@@ -1,0 +1,5 @@
+C:\Workspace\_Code\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Workspace\_Code\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Workspace\_Code\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Workspace\_Code\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Workspace\_Code\Prototype\Prototype\obj\Debug\Prototype.pdb

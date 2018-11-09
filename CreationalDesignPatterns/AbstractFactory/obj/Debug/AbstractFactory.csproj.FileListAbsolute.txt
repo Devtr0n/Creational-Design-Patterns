@@ -1,0 +1,5 @@
+C:\Workspace\_Code\Prototype\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Workspace\_Code\Prototype\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Workspace\_Code\Prototype\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Workspace\_Code\Prototype\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Workspace\_Code\Prototype\AbstractFactory\obj\Debug\AbstractFactory.pdb

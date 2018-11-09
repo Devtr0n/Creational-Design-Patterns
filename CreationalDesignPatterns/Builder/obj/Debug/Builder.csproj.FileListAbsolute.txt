@@ -1,0 +1,5 @@
+C:\Workspace\_Code\Prototype\Builder\bin\Debug\Builder.exe.config
+C:\Workspace\_Code\Prototype\Builder\bin\Debug\Builder.exe
+C:\Workspace\_Code\Prototype\Builder\bin\Debug\Builder.pdb
+C:\Workspace\_Code\Prototype\Builder\obj\Debug\Builder.exe
+C:\Workspace\_Code\Prototype\Builder\obj\Debug\Builder.pdb
